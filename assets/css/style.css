@@ -5,7 +5,7 @@
     margin: 0;
 }
 
-/* General style for the main body of the page */
+/* Background color for the main body of the page */
 body {
     background-color: #d9dcd6;
 }
@@ -18,13 +18,13 @@ header {
     color: #ffffff;
 }
 
-/* Style for h1 elements within the header */
+/* Display style and font size for h1 elements within the header */
 header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-/* Style for the seo span element within the h1 element of the header */
+/* Text color for the seo span element within the h1 element of the header */
 header h1 .seo {
     color: #d9dcd6;
 }
@@ -38,7 +38,7 @@ header div {
     font-size: 20px;
 }
 
-/* Style for unordered lists within div elements within the header */
+/* Remove bullet points for unordered lists within div elements within the header */
 header div ul {
     list-style-type: none;
 }
@@ -49,13 +49,13 @@ header div ul li {
     margin-left: 25px;
 }
 
-/* General style for a elements */
+/* Set text color and remove text decoration for a elements */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
-/* General style for p elements */
+/* Set font size for p elements */
 p {
     font-size: 16px;
 }
